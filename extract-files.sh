@@ -14,7 +14,7 @@ fi
 
 set -e
 
-export DEVICE=m20lte
+export DEVICE=wisdom
 export DEVICE_COMMON=universal7904-common
 export VENDOR=samsung
 

@@ -1,7 +1,6 @@
 DEVICE_PATH := device/samsung/wisdom
 
 # Kernel
-BOARD_KERNEL_SEPARATED_DT := true
 TARGET_KERNEL_CONFIG := wisdom_defconfig
 BOARD_CUSTOM_BOOTIMG_MK := hardware/samsung/mkbootimg.mk
 TARGET_CUSTOM_DTBTOOL := dtbhtoolExynos

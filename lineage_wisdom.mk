@@ -20,3 +20,5 @@ PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+
+TARGET_DISABLE_EPPE := true
